@@ -1,0 +1,1441 @@
+[
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Congratulations!",
+        "content": "🎉 🎉 You've been accepted into the Software Engineering program! 🧑‍💻🧑‍💻 TLDR​ We've created this guide to help you prepare for the journey ahead. If you're unable to go through everything in this guide, there are 3 key things that we need you to do: 1. Join the Pre ALX SE Discord Server​ We have created a dedicated discord server for all success applicants of the ALX SE program. Click this link to join the Pre ALX SE server. Very Important: This discord community has been established for you to meet up with other people who will be joining the program and also to help you prepare for the start of the program. You will, however, be given access to the main ALX SE community on Slack in due time. All official community engagements among peers and mentors in the program will only take place on Slack.",
+        "links": "https://discord.gg/8NvAah5yWE https://discord.gg/8NvAah5yWE https://twitter.com/julienbarbier42 https://twitter.com/julienbarbier42 https://www.youtube.com/@0xJulien https://www.linkedin.com/in/julienbarbier/ https://twitter.com/ehoneahobed https://twitter.com/ehoneahobed https://www.youtube.com/@ehoneahobed https://www.linkedin.com/in/ehoneahobed/ https://twitter.com/facesofalxse https://twitter.com/facesofalxse https://twitter.com/alx_africa https://twitter.com/alx_africa https://www.linkedin.com/company/faces-of-alx-se/ https://www.linkedin.com/company/faces-of-alx-se/ https://www.facesofalxse.com/ https://www.facesofalxse.com/ https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 812,
+        "contentTokens": 189,
+        "embedding": []
+      },
+      {
+        "title": "Congratulations!",
+        "content": "For that matter, make sure you are in the Slack community by the time you start the program. You will be sent emails to guide you on how to set up your account. 2. Follow the following accounts on Social Media​ In order not to miss any important information and to get continuous motivation throughout your journey in the ALX SE program, we recommend you to follow these accounts on Twitter 3. Watch these videos​ This video will introduce you to the kind of mindset you require to succeed in the ALX SE program. In this video, Julien Barbier talks with Max, an alumni of Holberton School where he shares insights into how he was able to succeed and advise on how you can also succeed in the program. We are thrilled to welcome you to our community. As you eagerly await the official start date and onboarding session, we want to ensure that you are well-prepared to hit the ground running.",
+        "links": "https://discord.gg/8NvAah5yWE https://discord.gg/8NvAah5yWE https://twitter.com/julienbarbier42 https://twitter.com/julienbarbier42 https://www.youtube.com/@0xJulien https://www.linkedin.com/in/julienbarbier/ https://twitter.com/ehoneahobed https://twitter.com/ehoneahobed https://www.youtube.com/@ehoneahobed https://www.linkedin.com/in/ehoneahobed/ https://twitter.com/facesofalxse https://twitter.com/facesofalxse https://twitter.com/alx_africa https://twitter.com/alx_africa https://www.linkedin.com/company/faces-of-alx-se/ https://www.linkedin.com/company/faces-of-alx-se/ https://www.facesofalxse.com/ https://www.facesofalxse.com/ https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 890,
+        "contentTokens": 187,
+        "embedding": []
+      },
+      {
+        "title": "Congratulations!",
+        "content": "With this in mind, we have put together a comprehensive guide to help you get ready for the program. This guide will equip you with the knowledge and resources you need to succeed, so that you can make the most of your time with us. 🚀 We can't wait to see you soon and start this exciting journey together! 🎓 Important Notice: Now that you have been accepted into the program, be on the lookout for follow up emails. Some of these emails will provide you with the relevant information concerning things you need to do in preparation for the start of the program (eg: Setting up your intranet account, joining slack, etc) Take every one of those emails seriously and do as may be required of you so that you are fully ready by the first day of onboarding. You may want to check your spam/junk folders in case you don't find them in your inbox. You should expect these emails between the time you are accepted to the time you start the program.",
+        "links": "https://discord.gg/8NvAah5yWE https://discord.gg/8NvAah5yWE https://twitter.com/julienbarbier42 https://twitter.com/julienbarbier42 https://www.youtube.com/@0xJulien https://www.linkedin.com/in/julienbarbier/ https://twitter.com/ehoneahobed https://twitter.com/ehoneahobed https://www.youtube.com/@ehoneahobed https://www.linkedin.com/in/ehoneahobed/ https://twitter.com/facesofalxse https://twitter.com/facesofalxse https://twitter.com/alx_africa https://twitter.com/alx_africa https://www.linkedin.com/company/faces-of-alx-se/ https://www.linkedin.com/company/faces-of-alx-se/ https://www.facesofalxse.com/ https://www.facesofalxse.com/ https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV https://open.spotify.com/show/2J2n8P7nTY3Yx79w6orvOV",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 844,
+        "contentTokens": 203,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "What is ALX SE",
+        "content": "Basic guide to set your expectations right and get you ready for the ALX Software Engineering program. 📄️ History Here is a little bit about the company and leaders behind the ALX SE program. 📄️ List of topics to be covered Here is a list of all the topics to be covered in the ALX SE program. 📄️ The ALX framework At ALX, we have made a framework available to serve as a guide for you when solving programming problems. This framework is made up of 12 steps. 📄️ Project based learning What is Project-based learning 📄️ Peer learning & PLDs What is Peer learning 📄️ Checker, Betty & Kimba As an ALX SE learner, three tools that you will encounter very often are Checker, Betty and Kimba. Here's what you need to know about them before you start your program: 📄️ Evaluation Quizzes As part of the program, you will periodically take multiple choice quizzes (evaluation quiz) to test your understanding of the concepts covered during that period. The questions in the quizzes will be drawn from the materials you have studied. 📄️ Frequently Asked Questions Find below, answers to some of the frequently asked questions about the program.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 693,
+        "contentTokens": 263,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "History",
+        "content": "Here is a little bit about the company and leaders behind the ALX SE program. What is ALG/ ALI / ALX​ ALG, which stands for African Leadership Group, is an ecosystem consisting of African Leadership Academy (ALA), African Leadership University (ALU), Africa Leadership International (ALI) and African Leadership University School of Business (ALUSB) The ALG's shared vision is to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030. ALI is the legal entity that recently signed an agreement to acquire Silicon Valley-based Holberton Inc., a project-based, college alternative educating the next generation of software engineers. ALI consists of ALX and The Room. ALX is the training arm of ALI that focuses on developing skills for the fourth industrial revolution such as software engineering, devops, and data science, among others.",
+        "links": "https://www.alxafrica.com/about/ https://www.theroom.com/learning-about/ https://www.linkedin.com/in/fred-swaniker-3a6382/ https://twitter.com/FredSwaniker https://www.linkedin.com/in/julienbarbier/ https://twitter.com/julienbarbier42 https://www.linkedin.com/in/guillaume-salva/ https://twitter.com/guillaumesalva",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 954,
+        "contentTokens": 193,
+        "embedding": []
+      },
+      {
+        "title": "History",
+        "content": "ALX SE is the software engineering program of ALX. The Room is the talent placement arm, which is a community that young talent can join to access global work opportunities. Find more information on both ALX and The Room on their respective websites Mastercard Foundation​ The Mastercard Foundation is a global foundation based in Canada that focuses on supporting education and financial inclusion in developing countries. Our partnership with Mastercard Foundation allows us to offer eligible candidates access to world-class programme training at no cost. Each candidate has the opportunity to apply for a sponsored placement during the application process. NB: Fred Swaniker (to the right), Julien Barbier (in the middle) and Guillaume Salva (to the left) Fred Swaniker​ Fred Swaniker is a serial entrepreneur and founder of the African Leadership Group. He is recognized as one of the most influential people in the world, and has been featured in Time Magazine's list of the 100 most influential people in 2019.",
+        "links": "https://www.alxafrica.com/about/ https://www.theroom.com/learning-about/ https://www.linkedin.com/in/fred-swaniker-3a6382/ https://twitter.com/FredSwaniker https://www.linkedin.com/in/julienbarbier/ https://twitter.com/julienbarbier42 https://www.linkedin.com/in/guillaume-salva/ https://twitter.com/guillaumesalva",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 1017,
+        "contentTokens": 196,
+        "embedding": []
+      },
+      {
+        "title": "History",
+        "content": "Swaniker's passion for transforming Africa and empowering its people has driven him to establish an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world. His leadership has resulted in the creation of ALX and The Room, two brands of the African Leadership Group, which aim to develop skills for the fourth industrial revolution and provide young talent access to global work opportunities. You can follow Fred on Social Media with the handles below: Linkedin: Fred Swaniker Twitter: @FredSwaniker Julien Barbier​ Julien Barbier joined ALX SE in September 2022 as Chief Product Officer. He is working with the entire team at ALX SE on creating the best software engineering program in the world and offering it to millions of people in Africa and beyond. Before that, Julien was the CEO and founder of Holberton, a revolutionary new type of software engineering school that has no teachers, no lectures, and no upfront tuition.",
+        "links": "https://www.alxafrica.com/about/ https://www.theroom.com/learning-about/ https://www.linkedin.com/in/fred-swaniker-3a6382/ https://twitter.com/FredSwaniker https://www.linkedin.com/in/julienbarbier/ https://twitter.com/julienbarbier42 https://www.linkedin.com/in/guillaume-salva/ https://twitter.com/guillaumesalva",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 1005,
+        "contentTokens": 197,
+        "embedding": []
+      },
+      {
+        "title": "History",
+        "content": "His innovative educational model is supported by tech leaders Jeff Weiner (Executive Chairman at LinkedIn), Jerry Yang (founder of Yahoo!), and Solomon Hykes (founder of Docker), as well as R&B singer Ne-Yo and actor, producer, and social activist Priyanka Chopra. Before that, Julien was the head of marketing and community at Docker, arguably one of the fastest-growing products for software developers over the last few years, now heavily used by companies such as Google, Uber, Spotify, Yelp, eBay, PayPal, Microsoft, Amazon, IBM, etc… His innovative approach to communication and community has been one of the key factors that led the company from a $0 to a $1B+ valuation. Julien is a Wall Street Journal and USA Today best selling author and was recognized as one of the top United States’s CEOs in the Education Space in 2022.",
+        "links": "https://www.alxafrica.com/about/ https://www.theroom.com/learning-about/ https://www.linkedin.com/in/fred-swaniker-3a6382/ https://twitter.com/FredSwaniker https://www.linkedin.com/in/julienbarbier/ https://twitter.com/julienbarbier42 https://www.linkedin.com/in/guillaume-salva/ https://twitter.com/guillaumesalva",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 834,
+        "contentTokens": 180,
+        "embedding": []
+      },
+      {
+        "title": "History",
+        "content": "Julien has also been listed on Vanity Fair’s Future Innovator Index 2018 and was the winner of the EdTech Leadership Award 2017 for School Leader. You can follow Julien on Social Media with the handles below: Linkedin: Julien Barbier Twitter: @julienbarbier42 Guillaume Salva​ With an Engineering degree in Computer science option network, distributed systems and security, Guillaume started his career as iOS developer with iOS 3.0. With 15 years of experience in the industry, Guillaume is the CTO of Holberton School, creator of the Checker and all other tools that he and his team developed for allowing learners to learn “the Holberton way” Passionate about education and mainly to see a learner grow month after month. Always happy to help! You can follow Guillaume on Social Media with the handles below: Linkedin: Guillaume Salva Twitter: @guillaumesalva.",
+        "links": "https://www.alxafrica.com/about/ https://www.theroom.com/learning-about/ https://www.linkedin.com/in/fred-swaniker-3a6382/ https://twitter.com/FredSwaniker https://www.linkedin.com/in/julienbarbier/ https://twitter.com/julienbarbier42 https://www.linkedin.com/in/guillaume-salva/ https://twitter.com/guillaumesalva",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 724,
+        "contentTokens": 201,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "List of topics to be covered",
+        "content": "Here is a list of all the topics to be covered in the ALX SE program. Foundations​ The foundations will run for 9 months and is divided into trimesters. Below are the various topics that you will cover per trimester. Trimester 1​ Trimester 2​ Trimester 3​ Specialization​ We have two major specializations that you get to choose from after your foundations. Specialization runs for 3 months. Each track (whether frontend or backend) will also go through some technical interview preparations. Interview Preparation​ Frontend Track​ Backend Track​",
+        "links": "",
+        "teamMembers": [],
+        "topics": [
+          {
+            "C Programming": "Basics",
+            "tokens": "4",
+            "Linux": "Basics",
+            "Milestone Projects": "printf"
+          },
+          {
+            "C Programming": "Functions",
+            "tokens": "4",
+            "Linux": "Permissions",
+            "Milestone Projects": "Shell"
+          },
+          {
+            "C Programming": "Pointers",
+            "tokens": "3",
+            "Linux": "Redirections",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Data Structures",
+            "tokens": "3",
+            "Linux": "Syscalls",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Arrays",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Singly Linked Lists",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Bit Manipulation",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Variadic Functions",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Memory Management",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "File Redirection",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "C Programming": "Static Libraries",
+            "tokens": "3",
+            "Linux": "",
+            "Milestone Projects": ""
+          },
+          {
+            "Python": "Basics",
+            "tokens": "7",
+            "C": "More Data Structures",
+            "Databases": "SQL",
+            "Linux": "Processes and Signals",
+            "Systems engineering": "Open Systems Interconnection Model",
+            "Web development": "AirBnB Clone"
+          },
+          {
+            "Python": "Object-Oriented Programming",
+            "tokens": "3",
+            "C": "Stacks/Queues",
+            "Databases": "MySQL",
+            "Linux": "Scripting",
+            "Systems engineering": "TCP/IP",
+            "Web development": "HTML"
+          },
+          {
+            "Python": "Interpreted Languages",
+            "tokens": "3",
+            "C": "Doubly Linked Lists",
+            "Databases": "",
+            "Linux": "Command Line",
+            "Systems engineering": "",
+            "Web development": "CSS"
+          },
+          {
+            "Python": "Test Driven Development",
+            "tokens": "4",
+            "C": "Hash Tables",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": "Unit Testing"
+          },
+          {
+            "Python": "Error Handling",
+            "tokens": "3",
+            "C": "Binary Trees",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": "JSON"
+          },
+          {
+            "Python": "I/O",
+            "tokens": "2",
+            "C": "Algorithms",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": ""
+          },
+          {
+            "Python": "Web Scraping",
+            "tokens": "2",
+            "C": "Sorting",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": ""
+          },
+          {
+            "Python": "",
+            "tokens": "2",
+            "C": "Big O",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": ""
+          },
+          {
+            "Python": "",
+            "tokens": "2",
+            "C": "Dynamic Libraries",
+            "Databases": "",
+            "Linux": "",
+            "Systems engineering": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "SSH",
+            "tokens": "11",
+            "C": "More Algorithms",
+            "Python": "ORMs (SQLAlchemy)",
+            "Web development": "AirBnB Clone (Continued)"
+          },
+          {
+            "System engineering and Devops": "SSL/TLS",
+            "tokens": "4",
+            "C": "Searching",
+            "Python": "Templating (Jinja2)",
+            "Web development": "Javascript"
+          },
+          {
+            "System engineering and Devops": "HTTP/S",
+            "tokens": "4",
+            "C": "",
+            "Python": "",
+            "Web development": "JQuery"
+          },
+          {
+            "System engineering and Devops": "Webstack Debugging",
+            "tokens": "4",
+            "C": "",
+            "Python": "",
+            "Web development": "Deployment"
+          },
+          {
+            "System engineering and Devops": "Servers",
+            "tokens": "4",
+            "C": "",
+            "Python": "",
+            "Web development": "APIs"
+          },
+          {
+            "System engineering and Devops": "Web Servers (Nginx)",
+            "tokens": "4",
+            "C": "",
+            "Python": "",
+            "Web development": "Flask"
+          },
+          {
+            "System engineering and Devops": "Application Servers (Gunicorn)",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "Configuration Management (Puppet)",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "Load Balancers",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "Postmortems",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "Networking",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "System engineering and Devops": "Monitoring",
+            "tokens": "2",
+            "C": "",
+            "Python": "",
+            "Web development": ""
+          },
+          {
+            "Modern Javascript": "ES6 Basics",
+            "tokens": "5",
+            "Front-end": "Advanced HTML",
+            "React": "Webpack",
+            "More": "Markdown to HTML"
+          },
+          {
+            "Modern Javascript": "ES6 Promises",
+            "tokens": "4",
+            "Front-end": "Developer tools",
+            "React": "React intro",
+            "More": "Flexbox"
+          },
+          {
+            "Modern Javascript": "ES6 classes",
+            "tokens": "3",
+            "Front-end": "Advanced CSS",
+            "React": "React props",
+            "More": "Forms"
+          },
+          {
+            "Modern Javascript": "ES6 data manipulation",
+            "tokens": "3",
+            "Front-end": "Responsive design",
+            "React": "React component",
+            "More": "Accessibility"
+          },
+          {
+            "Modern Javascript": "Typescript",
+            "tokens": "4",
+            "Front-end": "",
+            "React": "React inline styling",
+            "More": "Fun with CSS"
+          },
+          {
+            "Modern Javascript": "",
+            "tokens": "6",
+            "Front-end": "",
+            "React": "React state",
+            "More": "Sass & Scss"
+          },
+          {
+            "Modern Javascript": "",
+            "tokens": "1",
+            "Front-end": "",
+            "React": "React Immutable",
+            "More": ""
+          },
+          {
+            "Modern Javascript": "",
+            "tokens": "1",
+            "Front-end": "",
+            "React": "React Redux action creator+normalizr",
+            "More": ""
+          },
+          {
+            "Modern Javascript": "",
+            "tokens": "1",
+            "Front-end": "",
+            "React": "React Redux reducer+selector",
+            "More": ""
+          },
+          {
+            "Modern Javascript": "",
+            "tokens": "1",
+            "Front-end": "",
+            "React": "React Redux Connectors and Providers",
+            "More": ""
+          },
+          {
+            "Modern Javascript": "ES6 Basics",
+            "tokens": "4",
+            "Python": "Variable Annotations",
+            "Storage": "MySQL advanced",
+            "Back-end": "Pagination",
+            "User Data": "Personal data"
+          },
+          {
+            "Modern Javascript": "ES6 Promises",
+            "tokens": "4",
+            "Python": "Async",
+            "Storage": "NoSQL",
+            "Back-end": "Caching",
+            "User Data": "Basic authentication"
+          },
+          {
+            "Modern Javascript": "ES6 classes",
+            "tokens": "4",
+            "Python": "Async Comprehension",
+            "Storage": "Redis basic",
+            "Back-end": "i18n",
+            "User Data": "Session authentication"
+          },
+          {
+            "Modern Javascript": "ES6 data manipulation",
+            "tokens": "5",
+            "Python": "Unittests and Integration Tests",
+            "Storage": "",
+            "Back-end": "Queuing System in JS",
+            "User Data": "User authentication service"
+          },
+          {
+            "Modern Javascript": "Typescript",
+            "tokens": "2",
+            "Python": "",
+            "Storage": "",
+            "Back-end": "Files manager",
+            "User Data": ""
+          },
+          {
+            "concept": "Interview Preparation​",
+            "tokens": "4 36",
+            "Topic 1": "Pascal's Triangle",
+            "Topic 2": "Lockboxes",
+            "Topic 3": "Minimum Operations",
+            "Topic 4": "Log Parsing",
+            "Topic 5": "UTF-8 Validation",
+            "Topic 6": "N Queens",
+            "Topic 7": "Star Wars API",
+            "Topic 8": "Rotate 2D Matrix",
+            "Topic 9": "Making Change",
+            "Topic 10": "Island Perimeter",
+            "Topic 11": "Prime Game"
+          }
+        ],
+        "contentLength": 546,
+        "contentTokens": 117,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "The ALX framework",
+        "content": "At ALX, we have made a framework available to serve as a guide for you when solving programming problems. This framework is made up of 12 steps. 0. Read​ Read everything pertinent to the question / project at hand. Example: Read the project prerequisites, man pages, documentation, books, and articles. ► Try all the examples in the docs. 1. Think​ Pause, take a breath, and think of the solution. Make sure you understand all of the required concepts and algorithms before you proceed to solve tasks. Once you have found your algorithm or solution - and only then - can you start to code. Repeat: Do NOT write any piece of code before you have the solution. Coding should only be translating your solution to computer code. To think of your solution, try to break things down; a big problem is easier to solve when you break it into smaller, easier problems. Example: First, rephrase the problem.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 897,
+        "contentTokens": 192,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "“What am I trying to accomplish here?” Then, go through different examples: “if I understand correctly, then with this input/context/parameters I should output/print/return/draw/… this”… “What could be the edge cases I have to think about to make sure my function/program will always work correctly and never crash?” Next, focus on the basic/regular use cases. “What should my algorithm be?” When you find it, try to “run” it through different examples on a whiteboard or pen/paper and see if the input/output match your expectations. Finally, once you get that, try to see what changes you have to make to take care of all possible edge cases. ► Sometimes, you will be able to “guess” solutions or complete tasks without totally understanding all the concepts, especially if a task is very small.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 797,
+        "contentTokens": 194,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Do NOT do this, because if you do not develop your critical thinking skills with smaller learning opportunities you will not have the ability to solve harder questions. You need to start thinking like an engineer, and this is how to begin. ► Use a whiteboard or pen/paper until you are 100% sure your code will work; this maintains focus, and keeps your mind active. 2. Think more + Whiteboard​ Write or draw out your problem on a whiteboard or paper. It’s easier to visualize your problem when it isn’t pure code. Can’t find the solution? Patiently think more, it’s out there. Also, ensure you read the resources thoroughly. 3. Ask why?​ Whether or not your code runs when you input it, make sure you know why it doesn’t (or does) work without looking at the error message.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 774,
+        "contentTokens": 183,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "You must also understand the vocabulary, concepts, and tools you use, and question why they exist so you ultimately know. Example: Let’s imagine we’re doing the bit manipulation project. Why do you think this is important? Is it important? Why binary? Where do bits play a role? How is it connected to the machine, memory, bytes and values of types? If you haven’t asked and answered those questions, then you did the task wrong. Also, if someone comes to you with this question and you don’t have the answer, stop everything and work on answering this question right away. This is your future, so ensure you have a strong foundation of understanding. ► Never blindly work on tasks without first understanding why it is important to spend time on the topic of the day and how it plays a role in the system or comprehension of CS. Understanding the big picture is very important to your education and future career. 4.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 917,
+        "contentTokens": 196,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Read the error messages​ Still can’t understand why it doesn’t work? Most of the time, the answer is in the error message. 5. Google​ If you still can’t find the solution or understand why your code doesn’t work, google it * *error message, specific question, specific concept, etc. ► NEVER TRUST THE INTERNET. A lot of the content on the Internet is wrong or incomplete. Always make sure what you are reading does make sense and is correct by challenging and testing every assumption. ► You should only google something specific. This step is NOT about looking at how to do the project. It should only help answer a specific question or understand a concept. ► You are NOT allowed to look at the solution / other people’s code. Even for “analysis” Looking at other people’s code / a solution is considered cheating. ► NEVER copy and paste something from the Internet.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 868,
+        "contentTokens": 197,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "You need to understand everything before you implement something you read. Typing yourself - instead of cp/paste - ensures that you better understand and not miss any details. 6. Google again​ If you can’t find it, then Google again using more context in your search or by rephrasing your question. 7. Ask a peer​ If you are still stuck on a problem despite doing the steps above, don’t wait too long before asking a peer. It is part of your job to ask for help. You are expected to do so, just like you will be expected to do so when you will have a job. Repeat: It’s your job to ask and it’s your job to help - especially at ALX SE. Respect the time of others. Make sure you spent enough time going through previous steps. Explain what the problem is and what you tried (i. e. how you followed The Framework)",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 810,
+        "contentTokens": 194,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Give as much context as possible; this helps your peers help you, and will prepare you to be an effective software engineer. Poorly asked technical question \"Hey, my code isn't working. Can someone help me fix it?\" This question is vague and doesn't provide any context. It's difficult for anyone to understand what the problem is or how to help. Well-asked technical question \"I'm working on the bit manipulation project, and I'm trying to set the nth bit to 1 in a given number. Here's the code I've written so far: However, I'm getting incorrect results when I run my tests. I've gone through the ALX framework and tried to solve the problem myself, but I'm stuck.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 667,
+        "contentTokens": 150,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Can someone help me understand what's wrong with my code and how to fix it?\" Respect every question; there is nothing more demotivating than having someone laughing at your question or being asked “what? you still don’t know that?” Do NOT touch others’ computers / keyboards. Explain, and let the person who asked for help type and correct their bugs/code. Do NOT give the final answer. You are here to guide, help them find the solution by themselves. Sometimes, you won’t be able to help, but you are still responsible to find someone who can. Stay with the person until it’s resolved. Bonus is that you will also learn how to solve the problem! Always start by confirming they went through the previous steps by asking “How did you follow The Framework?” If you help someone without making sure of this, you are NOT helping them. When explaining something, always start with whiteboarding the algorithm.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 906,
+        "contentTokens": 200,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Again, coding should come at the end, only to translate the solution to code. When the learner understands the solution, then clean the whiteboard, and ask the learner to do it again on their own. They need to go step by step from zero to understanding to showcase that they deeply understand. Give hints Example of hints: Try rephrasing the question: “So what you are really looking for is…\" Point to the right documentation: “You should read the manual of this command…” Again, coding should come at the end, only to translate the solution to code. When the learner understands the solution, then clean the whiteboard, and ask the learner to do it again on their own. Repeat until the learner can do it. ► It’s ok to code it in front of the learner and explain the code, BUT then delete the file and ask the learner to do it again on their own.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 846,
+        "contentTokens": 197,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Repeat until the learner can do it. ► There are no stupid questions! 8. Ask more peers​ If those you’ve asked haven’t had the answer, ask someone else. 99% of the time, someone knows and has the answer. Examples: Ask several learners - from your cohort first, and then from previous cohorts. Ask specific, clear questions in your cohort Slack channel, topic specific channels, or reach out to learners in other locations. ► Different people will have different ways of explaining, since we all communicate differently. If at first you don’t understand, continue to ask others and don’t be discouraged. ► Once you understand something on the whiteboard, wipe it and do it again on your own, since you only truly understand when you are able to do it on your own. 9.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 764,
+        "contentTokens": 171,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Ask ChatGPT​ ChatGPT is a large language model trained by OpenAI, designed to engage in natural language conversations and provide intelligent responses. It can provide personalized explanations, feedback, and guidance on programming concepts, best practices, and common errors, as well as answering your questions and helping you troubleshoot issues in real-time. Before you use ChatGPT, you need to understand the context in which you are right now. You are here to learn. This is a very different context than when you will be working for a company. You need to focus on learning, while an employee needs to focus on shipping and be as effective and fast as possible doing so. As a result, the usage of AI has to be different in the two different contexts. Remember, you are here to LEARN, not to get green checks. Green checks are here to measure your learning. The check assumes that you are following the framework and that you are never cheating.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 953,
+        "contentTokens": 196,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "In that context, here are some examples of what to ask ChatGPT (remember, only AFTER you have tried the above 8 steps): ► Explain concepts: Ask ChatGPT to summarize concepts or explain them to you in a different way or in simpler terms. Try the following prompt for instance: “Explain C pointers to me like I am a 12 year old” ► Ask additional, more detailed questions about concepts or examples. Try “Explain to me what is the difference between an address and a pointer in the C programming language” ► Find a bug: You have been working on a task for hours, and nobody can help you. You can ask ChatGPT to help you find the bug, and get this final green check. This should be done in two phases. Phase 1: Ask ChatGPT to explain to you why there is a bug, without giving you any code to fix it.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 795,
+        "contentTokens": 188,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Once you understand the reason, go back to your code and fix it yourself. Phase 2: You have done Phase 1 and have spent at least 30 minutes on it. You can’t fix it. You can ask ChatGPT to help you with fixing the code. BUT you should NEVER copy and paste any code that ChatGPT has produced. N. E. V. E. R. (you can do that in a different context, but not in the context of learning) You want to take the time to read the explanation and understand the code. And then, you close the window, and you code it again on your own, without going back to ChatGPT. This is the ONLY way to know that you have actually understood: when you can do it on your own, without the help of anyone or anything.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 691,
+        "contentTokens": 170,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "At the end of the project or task, when you get to 100%, we encourage you to ask ChatGPT if they see a way to improve your code. Try “I am a software engineering learner and I had to create a function that {describe the function} This is my code {paste your code here>} Do you see a way to improve it? If so, can you explain how and why?” 10. Ask your Technical Mentors (TM)​ Each non-inaugural cohort has a dedicated TM. TMs are to offer guidance in situations where your peers couldn't assist you. ► Remember to go through the previous 9 steps before asking a TM. The first thing that they will ask you is: “How did you follow The Framework?”, and you need to be able to efficiently answer. 11.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 696,
+        "contentTokens": 176,
+        "embedding": []
+      },
+      {
+        "title": "The ALX framework",
+        "content": "Ask other TMs​ If your TM is unavailable or was unable to find the solution, you can also ask TMs from other cohorts. 12. Ask Staff/Alumni/Mentors​ If no one up to this point was able to help, ask someone on staff. We are here to help on-site or via Slack! If staff cannot help, flesh out your general concerns into specific and actionable questions that you’d not been able to resolve with steps 0-10 of The Framework. Once you have your list, ask staff for an alum or mentor recommendation of who would be qualified to answer your questions. Then, ask the alum/mentors for answers/advice to your specific and actionable questions.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 632,
+        "contentTokens": 149,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Project based learning",
+        "content": "What is Project-based learning​ Project-based learning (PBL) is a teaching and learning approach that emphasizes learner-centered inquiry, collaboration, and the application of skills and knowledge to real-world problems. PBL is designed to provide learners with opportunities to develop critical thinking, problem-solving, communication, and teamwork skills, which are all essential for success in today's rapidly changing work environments. PBL at ALX SE​ The ALX SE program follows a project-based learning model in which learners work on a series of increasingly complex projects, starting with simple ones and progressing to more advanced ones as they gain experience and proficiency. Unlike other educational institutions, ALX SE is not professor-led. So, you don't have teachers showing up to teach you. You need to learn by yourself, with your peers and with/without help from technical mentors.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 903,
+        "contentTokens": 177,
+        "embedding": []
+      },
+      {
+        "title": "Project based learning",
+        "content": "In each project, learners work either as individuals or in smaller groups, collaborating to solve problems and complete tasks that simulate real-world challenges. The curriculum is designed to provide learners with a broad understanding of software engineering concepts and practices, as well as the specific skills needed to work as a full-stack engineer. By providing real-world challenges and opportunities for collaboration, we are helping to prepare you for the demands of the modern workplace, where the ability to work independently, communicate effectively, and solve complex problems is essential for success. At ALX SE, the project based learning takes place on the intranet. What is the intranet?​ The intranet is the online platform that serves as your classroom. On the intranet, you will find information such as: How to access the intranet​ Before the official start of the program, you will be asked to set up your account on the intranet.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 955,
+        "contentTokens": 189,
+        "embedding": []
+      },
+      {
+        "title": "Project based learning",
+        "content": "Be on a lookout for the email with your credentials from the team. When are the projects released?​ Projects are usually released 6:00AM and are available on the intranet as soon as they are released. You will also get an email notifying you of the availability of a new project. Do the projects have deadlines?​ Each project has its own deadline and is also usually 6:00AM. The duration for a project depends on how loaded that specific project is. You may have some projects lasting for only 24 hours while others can last for about 2 weeks. What happens if you miss a project deadline?​ If you miss a project deadline, you may lose points or receive a lower grade. However, the project will always be available for you to do it at your own pace. Project Deadlines​ Each project that you are assigned has three (3) different deadlines.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 837,
+        "contentTokens": 179,
+        "embedding": []
+      },
+      {
+        "title": "Project based learning",
+        "content": "If you submit your project before the first deadline, it will be marked out of a total of 100% After the first deadline, you can still submit your project, but the maximum score you can receive is 65% Even beyond the second deadline, you can still submit your work, but the maximum score you can receive is 50% It is important to note that missing a deadline should not discourage you from continuing to work on the project and striving to submit it for evaluation. Minimum Score requirement​ We have two main minimum score requirements that you need to be aware of. They are: At the end of the probation phase, which is the end of your first 6 weeks in the program if you are doing the fully remote program, you are required to have a minimum score of 80% Beyond probation, you are expected to get a minimum of 70% for each month in the program. Failure to meet this minimum score requirement will imply that you repeat that very month.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 937,
+        "contentTokens": 192,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Peer learning & PLDs",
+        "content": "What is Peer learning​ Peer learning is a teaching approach where learners work together in small groups to help each other learn. Peer learning involves the sharing of knowledge, skills, and experiences among peers, which helps to deepen understanding, reinforce learning, and build community. In the heart of ALX SE is rooted the concept of peer learning. Unlike other educational institutions, ALX SE is not professor-led. So, you don't have teachers showing up to teach you. You therefore do a lot of the learning together with your peers. Peer Learning Days (PLDs)​ To facilitate peer learning in the ALX SE program, we have dedicated days for learners to host peer learning sessions or discussions. Even though these days are captured on the learners' calendars, it doesn't stop learners from organizing peer learning sessions amongst themselves on other days aside PLDs.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 877,
+        "contentTokens": 171,
+        "embedding": []
+      },
+      {
+        "title": "Peer learning & PLDs",
+        "content": "Importance of PLDs​ Peer Learning Days are when we ensure that each and every one of our peers understands content, and that everyone is collectively growing in technical, soft, and professional skills. It’s very important to emphasize that Peer Learning Days are not about sharing solutions. Why? That does not empower peers with the ability to solve problems themselves! Peer Learning is when you share your thought process - whether through conversation, whiteboarding, debugging or live coding. Examples: ► Modeling this form of thinking for one another is invaluable, and will strengthen your entire cohort. ► Your ability to articulate your knowledge (aka help teach others) will be required to succeed at a technical interview and a career in software engineering.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 771,
+        "contentTokens": 145,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Checker, Betty & Kimba",
+        "content": "As an ALX SE learner, three tools that you will encounter very often are Checker, Betty and Kimba. Here's what you need to know about them before you start your program: Checker​ At ALX SE, the Checker is the tool that checks your submissions and grades you accordingly. The checker can give you feedback on what you did wrong if you end up not scoring everything. But most times the Checker's feedback is only available after your first deadline. Betty​ Betty is a tool used for code checking and formatting (in C programming) It helps to ensure code consistency, readability, and adherence to industry standards. Betty checks code for common errors and issues, such as indentation, variable naming, and function length, and provides feedback to the user on how to improve their code. It is used by ALX SE to help the learners to develop good coding practices and learn from the feedback provided by the tool.",
+        "links": "https://twitter.com/0xAuntyBetty https://twitter.com/0xAuntyBetty https://twitter.com/julienbarbier42/status/1651460956600549376?s=20 https://twitter.com/julienbarbier42/status/1651460956600549376?s=20",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 910,
+        "contentTokens": 192,
+        "embedding": []
+      },
+      {
+        "title": "Checker, Betty & Kimba",
+        "content": "You will receive detailed instructions on the standards that Betty checks for and must make sure that your code meets those standards. Follow Aunty Betty on Twitter What is Kimba​ Kimba is ALX SE's plagiarism detection tool that checks learners' project submissions for plagiarism. We have a zero-tolerance policy for plagiarism, and any learner caught plagiarizing will be penalized for that project. If caught for plagiarism on a second occasion, the learner will be expelled from the program. Check this tweet out.",
+        "links": "https://twitter.com/0xAuntyBetty https://twitter.com/0xAuntyBetty https://twitter.com/julienbarbier42/status/1651460956600549376?s=20 https://twitter.com/julienbarbier42/status/1651460956600549376?s=20",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 517,
+        "contentTokens": 108,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Evaluation Quizzes",
+        "content": "As part of the program, you will periodically take multiple choice quizzes (evaluation quiz) to test your understanding of the concepts covered during that period. The questions in the quizzes will be drawn from the materials you have studied. The evaluation quizzes are released at 6:00 PM on the day of the quiz and you won't be able to access any other parts of your intranet until you have completed the quiz. It is important to take these quizzes seriously as the grades from them are added to your monthly average. During the quiz session, you are not allowed to open any extra materials on the device you are using. Leaving the quiz screen during the quiz session will result in loss of marks. The number of minutes spent away from the quiz screen will determine how many marks you lose. This means you could score zero for a quiz even if you answered everything correctly because you left the quiz screen while the quiz was still in session for a couple of minutes. The results of the quiz will be available as soon as you complete the quiz. The aim of the quiz is to assess your understanding of the concepts you have learned and provide you with feedback on your progress.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 973,
+        "contentTokens": 237,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Frequently Asked Questions",
+        "content": "Find below, answers to some of the frequently asked questions about the program. Hey there! This is not just an FAQ. It's your personal guide to fully understanding the program and get clarity on any questions you may have. Take your time to carefully read & digest! Before you Begin!​ By joining the ALX Software Engineering Program, you will boost your skills and launch your career in one of the most exciting and in-demand fields in the world of tech. Theoretical and practical software development + work-ready skills, that can connect you to meaningful paid opportunities. While it's not essential to have prior knowledge, we recommend being curious and courageous to gaining foundational skills, being ready to learn and ask questions, and having a willingness to read, research and solve problems. To help you get started, we'll share some beginner-friendly resources with you. Learning Environment​ If you are enrolled in the hybrid program, it is expected that you attend the hub you have been assigned to.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 1016,
+        "contentTokens": 200,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "For learners enrolled in the fully online program, access to our agile learning environment called the Intranet is provided. This serves as our virtual classroom, providing all the necessary tools and resources for learners to engage in their coursework. From the INTRANET, you'll submit your projects and get scored, allowing you to track your progress throughout the programme. Which means no lecturers, You Own Your Learning (YOYO), You Own Your Learning (YOYO) We release projects daily/weekly, so never be too far away from the Intranet. Great news! Your login details and instructions will be sent to you in just a few days before the start of your program. Make sure to reset your password and get ready for full access on the first day of onboarding On the Intranet No, you're not limited to learning from the resources on the Intranet.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 844,
+        "contentTokens": 181,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "We highly encourage you to research and leverage other learning resources as well - in fact, it's all part of being a lifelong learner! For those going through the fully online program, 12 months; 9 months of Foundation knowledge and 3 months of Specializing in either Back/front end technologies. For those going through the hybrid program, 15 months; 3 months for ALX foundations, 9 months of SE foundations knowledge, and 3 months of Specializing in either Back/front end technologies. Your First Few Weeks!​ You'll receive a series of instructions(emails) throughout the week prior to your onboarding to prepare you for your official first day at ALX. On your first day, it's mandatory to attend the Onboarding activities and all activities scheduled for the entire week. Learning starts on Day 2, You will have a list of simple projects to complete from Day 2 and for the next 12 days - The first 2 weeks are referred to as Onboarding Phase.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 946,
+        "contentTokens": 196,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "Not to worry, the onboarding phase WILL NOT be scored. This time is dedicated to getting familiar with the program & Intranet as we prepare you for this journey. Probation phase! This is where the real learning begins! You'll have projects to complete, and yes, they will be Graded. You are required to achieve a minimum set score to advance to the next phase of the program. This phase runs for 30-days and if you advance you will go on to begin Section 1 of Foundation. NB: Some of the projects you do in the onboarding phase will be repeated in the probation phase but this time around they will be scored so ensure that you do them even if you did them earlier during onboarding If you have any admin related question, reach out to our support team bit. ly/alx-se-support. They are available to assist you all through the 12 months.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 836,
+        "contentTokens": 184,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "Projects & Scores​ Achieve a minimum of 80% overall score for Month 1 (Probation Phase) and a minimum of 70% every other month. Agreed, We understand that everyone learns at their own pace - However, we also believe that having a score requirement motivates and challenges our learners to strive for excellence and push themselves to reach their full potential. Not at all! Just focus on learning, applying the knowledge you've gained and submitting within the deadline, and 80% will be a piece of cake. Oh yes! You will have 3 deadlines per project. Scores reduce the later you submit, but no worries, we have learners who target the 2nd and 3rd deadlines and still do great! This isn't a contest. If you don't meet the scores for the first month, you'll have a chance to redo it and try again. The same applies to subsequent months - but there's limit to this.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 862,
+        "contentTokens": 189,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "You can pause and resume your learning for a limited number of times. Supporting You!​ No way! This is a Peer learning program, so we encourage you to maximize support from your peers + we have Learning Ambassadors (LA) that would be assigned to support you. On Slack. Think of it like a WhatsApp group that has everyone on there. Nope! We have cohorts grouped into channels - think of it like multi-groups. Although, we do have one place where we all gather for updates! In a few days to your onboarding, we'll send you a link to get started. You will need your Intranet sign-up to access Slack. Winning Mindset​ Doing Hard Things doesn't mean we make learning difficult.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 672,
+        "contentTokens": 150,
+        "embedding": []
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "content": "Think of it like learning a new language - every new challenge or goal seems tough at first, but you've got this, and you have us to support you! You might have some low moments, but when that happens, ask yourself, \"Am I better than I was yesterday?\" No matter what the answer is, reflect, tie your laces, and move forward. You were made for this! We take Plagiarism very seriously here. We want to equip you with the skills you need to succeed in the workplace, and copying code won't get you there. Plus, we have systems to detect plagiarism, and if caught, you'll be dismissed from the program. Let's learn and grow the right way! - Quality Software Engineering skills to kick-start your career. - A network of valuable contacts that money can't buy - Certificate of completion to showcase your achievement + a transcript. - Access to our Exclusive Fellowship club Quiz​",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 874,
+        "contentTokens": 192,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Community",
+        "content": "ALX SE pride itself in the great community we have and we can't wait to expose you to the lovely community 📄️ Team Want to connect with the wonderful team behind the ALX SE program? Find them below and connect with them via the respective social media channel. 📄️ Join Discord We are excited to announce that we have set up a Discord server for all successful applicants to the ALX SE program. The server is a community hub where you can connect with fellow learners, and program staff. 📄️ Faces of ALX SE A lot of the learners at ALX SE are doing amazing things and the world needs to hear about them. We have made it easy for you to learn about the wonderful things that some of our learners are doing. 📄️ YouTube Channels Veni, Codi, Vici, with 0xJulien",
+        "links": "",
+        "teamMembers": [
+          {
+            "name": "Julien Barbier",
+            "role": "Chief Product Officer",
+            "socials": {
+              "julien barbier": "https://www.linkedin.com/in/julienbarbier",
+              "@julienbarbier42": "https://twitter.com/julienbarbier42",
+              "@0xjulien": "https://www.youtube.com/@0xJulien"
+            },
+            "tokens": 50
+          },
+          {
+            "name": "Guillaume Salva",
+            "role": "VP Of Engineering",
+            "socials": {
+              "guillaume salva": "https://www.linkedin.com/in/guillaume-salva",
+              "@guillaumesalva": "https://twitter.com/guillaumesalva"
+            },
+            "tokens": 36
+          },
+          {
+            "name": "Dr. Ehoneah Obed",
+            "role": "Curriculum, Quality & Experience Analyst",
+            "socials": {
+              "dr. ehoneah obed": "https://www.linkedin.com/in/ehoneahobed",
+              "@ehoneahobed": "https://www.youtube.com/@ehoneahobed"
+            },
+            "tokens": 45
+          },
+          {
+            "name": "Joy Atieno Otieno",
+            "role": "Growth Hacker & Learners' Agent",
+            "socials": {
+              "joy atieno otieno": "https://www.linkedin.com/in/joy-otieno/",
+              "@atieno_oj": "https://twitter.com/Atieno_OJ"
+            },
+            "tokens": 44
+          },
+          {
+            "name": "Nungari Nguru",
+            "role": "Operations Associate",
+            "socials": {
+              "@lynnnungari": "https://twitter.com/LynnNungari"
+            },
+            "tokens": 19
+          },
+          {
+            "name": "Alexandre Gautier",
+            "role": "Sr Software Engineer",
+            "socials": {
+              "alexandre gautier": "https://www.linkedin.com/in/gautieralexandre/",
+              "@gautie_a": "https://twitter.com/gautie_a"
+            },
+            "tokens": 38
+          },
+          {
+            "name": "Zuberi Msemo",
+            "role": "Curriculum Integrator",
+            "socials": {
+              "zuberi msemo": "https://www.linkedin.com/in/zuberi-a-msemo-b9688691/",
+              "@_zubrah": "https://twitter.com/_Zubrah"
+            },
+            "tokens": 46
+          },
+          {
+            "name": "Vincent Karoubi",
+            "role": "Sr Software Engineer",
+            "socials": {
+              "vincent karoubi": "https://www.linkedin.com/in/vincentkaroubi/",
+              "@karoub": "https://twitter.com/karoub"
+            },
+            "tokens": 34
+          },
+          {
+            "name": "Joy Ejiofoh",
+            "role": "SE Holberton Program Lead",
+            "socials": {
+              "joy ejiofoh": "https://www.linkedin.com/in/joy-ejiofoh/"
+            },
+            "tokens": 31
+          },
+          {
+            "name": "Maarten van Middelaar",
+            "role": "Senior Technical Mentor",
+            "socials": {
+              "maarten van middelaar": "https://www.linkedin.com/in/maarten-van-middelaar/",
+              "@maartenvm19": "https://twitter.com/maartenvm19"
+            },
+            "tokens": 42
+          },
+          {
+            "name": "Cole Baidoo",
+            "role": "Software Engineer & Technical Mentor",
+            "socials": {
+              "cole baidoo": "https://www.linkedin.com/in/cole-baidoo-9326b2192/",
+              "@block_cs": "https://twitter.com/block_cs"
+            },
+            "tokens": 43
+          },
+          {
+            "name": "Yosef Samuel",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "yosef samuel": "https://www.linkedin.com/in/yosefsamuel/",
+              "@yosefsamuel7": "https://twitter.com/yosefsamuel7"
+            },
+            "tokens": 38
+          },
+          {
+            "name": "Alfred Tuva",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "alfred tuva": "https://www.linkedin.com/in/muindetuva/",
+              "@muindetuva": "https://twitter.com/muindetuva"
+            },
+            "tokens": 38
+          },
+          {
+            "name": "Amanuel Sisay",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "amanuel sisay": "https://www.linkedin.com/in/amanuel-s-87b044201/",
+              "@amanabiy_as": "https://twitter.com/amanabiy_as"
+            },
+            "tokens": 42
+          },
+          {
+            "name": "Derrick Ampire",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "derick ampire": "https://www.linkedin.com/in/am-derrick/",
+              "@@am_derrick": "https://twitter.com/@am_derrick"
+            },
+            "tokens": 36
+          },
+          {
+            "name": "Danson Kalaghe",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "danson kalaghe": "https://www.linkedin.com/in/dansonkalaghe/",
+              "@lowercase_life": "https://twitter.com/lowercase_life"
+            },
+            "tokens": 38
+          },
+          {
+            "name": "Faith Okoth",
+            "role": "SE Technical Mentor",
+            "socials": {
+              "faith okoth": "https://www.linkedin.com/in/faith-atieno-209431b6/"
+            },
+            "tokens": 30
+          },
+          {
+            "name": "Leykun Woldesemayat",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "leykun woldesemayat": "https://www.linkedin.com/in/leykun-gizaw/",
+              "@leyk_g": "https://twitter.com/Leyk_g"
+            },
+            "tokens": 43
+          },
+          {
+            "name": "Nehemiah Kamolu",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "nehemiah kamolu": "https://www.linkedin.com/in/nehemiah-kamolu/",
+              "@8nehe": "https://twitter.com/block_cs"
+            },
+            "tokens": 40
+          },
+          {
+            "name": "Erick Kiminza",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "erick kiminza": "https://www.linkedin.com/in/erick-kiminza-25160b183/",
+              "@e_kiminza": "https://twitter.com/e_kiminza"
+            },
+            "tokens": 45
+          },
+          {
+            "name": "Firdaus H. Salim",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "firdaus h. salim": "https://www.linkedin.com/in/firdaus-h-salim/",
+              "@betascribbles": "https://twitter.com/@BetaScribbles"
+            },
+            "tokens": 43
+          },
+          {
+            "name": "Charles Osoti",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "osoti charles": "https://www.linkedin.com/in/osoti-charles-55558835/",
+              "@coosoti": "https://twitter.com/coosoti"
+            },
+            "tokens": 39
+          },
+          {
+            "name": "Andrew M. Ngumbao",
+            "role": "SE Technical Mentor Fellow",
+            "socials": {
+              "andrew (mukare) ngumbao": "https://www.linkedin.com/in/andrew-ngumbao-385088147/",
+              "@mukareandrew": "https://twitter.com/MukareAndrew"
+            },
+            "tokens": 44
+          },
+          {
+            "name": "Irene Aragona",
+            "role": "Community and Program Specialist",
+            "socials": {
+              "irene aragona": "https://www.linkedin.com/in/irene-aragona-41a08660/"
+            },
+            "tokens": 32
+          }
+        ],
+        "topics": [],
+        "contentLength": 760,
+        "contentTokens": 177,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Team",
+        "content": "Want to connect with the wonderful team behind the ALX SE program? Find them below and connect with them via the respective social media channel.",
+        "links": "https://www.linkedin.com/in/julienbarbier https://twitter.com/julienbarbier42 https://www.youtube.com/@0xJulien https://www.linkedin.com/in/guillaume-salva https://twitter.com/guillaumesalva https://www.linkedin.com/in/ehoneahobed https://twitter.com/ehoneahobed https://www.youtube.com/@ehoneahobed https://www.linkedin.com/in/joy-otieno/ https://twitter.com/Atieno_OJ https://twitter.com/LynnNungari https://www.linkedin.com/in/gautieralexandre/ https://twitter.com/gautie_a https://www.linkedin.com/in/zuberi-a-msemo-b9688691/ https://twitter.com/_Zubrah https://www.linkedin.com/in/vincentkaroubi/ https://twitter.com/karoub https://www.linkedin.com/in/joy-ejiofoh/ https://www.linkedin.com/in/maarten-van-middelaar/ https://twitter.com/maartenvm19 https://www.linkedin.com/in/cole-baidoo-9326b2192/ https://twitter.com/block_cs https://www.linkedin.com/in/yosefsamuel/ https://twitter.com/yosefsamuel7 https://www.linkedin.com/in/muindetuva/ https://twitter.com/muindetuva https://www.linkedin.com/in/amanuel-s-87b044201/ https://twitter.com/amanabiy_as https://www.linkedin.com/in/am-derrick/ https://twitter.com/@am_derrick https://www.linkedin.com/in/dansonkalaghe/ https://twitter.com/lowercase_life https://www.linkedin.com/in/faith-atieno-209431b6/ https://www.linkedin.com/in/leykun-gizaw/ https://twitter.com/Leyk_g https://www.linkedin.com/in/nehemiah-kamolu/ https://twitter.com/block_cs https://www.linkedin.com/in/erick-kiminza-25160b183/ https://twitter.com/e_kiminza https://www.linkedin.com/in/firdaus-h-salim/ https://twitter.com/@BetaScribbles https://www.linkedin.com/in/osoti-charles-55558835/ https://twitter.com/coosoti https://www.linkedin.com/in/andrew-ngumbao-385088147/ https://twitter.com/MukareAndrew https://www.linkedin.com/in/irene-aragona-41a08660/",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 145,
+        "contentTokens": 28,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Mindset Prep",
+        "content": "Here are some experiences shared by our current and past learners to help you build the right mindset for the program 📄️ Videos The Winning Mindset with Julien Barbier 📄️ Articles by Learners 1 Insider Tips and Tricks 📄️ Tweets We have a lot of staff and learners sharing motivation, documenting their journey on Twitter and sharing some insights into how to succeed in the program. Here are a handful of Tweets that we picked.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 430,
+        "contentTokens": 94,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Videos",
+        "content": "The Winning Mindset with Julien Barbier​ A conversation with Max, OG Holberton School Alumni | ALX SE​ Live Discussion: Staying motivated in the program​ Mindset and Advice by Julien Barbier​ My experience as ALX Software Engineering student & how I study​",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 256,
+        "contentTokens": 60,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Articles by Learners",
+        "content": "#1: The ALX Software Engineering Program: Insider Tips and Tricks​ Written by: Dr. Ehoneah Obed Excerpt: Which classroom is used? ALX has its own unique online platform, which you are given access to once you start your onboarding process. This is going to be your classroom throughout the program. Read the full article here #2: My ALX-SE Learning Journey: The Value of Grit, Community, and Conviction​ Written by: David Okolie Excerpt: Read the full article here #3: How to adequately prepare for the ALX software engineering program​ Written by: Dr. Ehoneah Obed Excerpt: Read the full article here #4: My ALX Software Engineering Adventure: Learning, Growing, and Thriving​ Written by: Bless Ambele Excerpt: Read the full article here",
+        "links": "https://medium.com/@ehoneahobed/the-alx-software-engineering-program-insider-tips-and-tricks-96577a8cc11 https://medium.com/@ehoneahobed/the-alx-software-engineering-program-insider-tips-and-tricks-96577a8cc11 https://medium.com/@David-Okolie/my-alx-se-learning-journey-the-value-of-grit-community-and-conviction-4011f72c5534 https://medium.com/@David-Okolie/my-alx-se-learning-journey-the-value-of-grit-community-and-conviction-4011f72c5534 https://medium.com/@ehoneahobed/how-to-adequately-prepare-for-the-alx-software-engineering-program-5584786dc27f https://medium.com/@ehoneahobed/how-to-adequately-prepare-for-the-alx-software-engineering-program-5584786dc27f https://ayaf.hashnode.dev/my-alx-software-engineering-adventure-learning-growing-and-thriving https://ayaf.hashnode.dev/my-alx-software-engineering-adventure-learning-growing-and-thriving",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 738,
+        "contentTokens": 178,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Tweets",
+        "content": "We have a lot of staff and learners sharing motivation, documenting their journey on Twitter and sharing some insights into how to succeed in the program. Here are a handful of Tweets that we picked. 1. Advice by ALX SE learners​ 2. Essence of Peer Learning​ 3. No loneliness​ 4. Positive Mindset​ Check out this tweet 5. Mindset about time​ 6. Why give up​ Check this tweet out 7. Stolen Attention​ Check out this tweet 8. Quitting is not an option​ Check out this tweet 9. Great work culture​ Check out this tweet 11. Become great software engineers​ Check out this tweet 12. Don't listen to them​ Check out this tweet 13. Self Believe​ Check out this tweet 14. Discipline and focus​ Check out this tweet 15. Self-discipline​ Check out this tweet 16. Growth is painful​ Check out this tweet 17. Thy self only​ Check out this tweet 18. Never quit​ Check out this tweet 19. Believe in yourself​ Check out this tweet 20. Your scores and your goals​ Check out this tweet 21. If you don't give up​ Check out this tweet 22. Win or Learn​ Check out this tweet 23. Hard work​ Check out this tweet.",
+        "links": "https://twitter.com/julienbarbier42/status/1592112859000905729 https://twitter.com/julienbarbier42/status/1592112859000905729 https://twitter.com/codenvibes/status/1649125210564460583 https://twitter.com/codenvibes/status/1649125210564460583 https://twitter.com/ItokVlad/status/1641552418797232131 https://twitter.com/ItokVlad/status/1641552418797232131 https://twitter.com/hobasaadmahmoud/status/1643432305476681730 https://twitter.com/hobasaadmahmoud/status/1643432305476681730 https://twitter.com/Code_Chart/status/1643677966306615303 https://twitter.com/Code_Chart/status/1643677966306615303 https://twitter.com/julienbarbier42/status/1650185546197762048 https://twitter.com/julienbarbier42/status/1650185546197762048 https://twitter.com/julienbarbier42/status/1649094252994134017 https://twitter.com/julienbarbier42/status/1649094252994134017 https://twitter.com/julienbarbier42/status/1647418938891046912 https://twitter.com/julienbarbier42/status/1647418938891046912 https://twitter.com/ahmed_olawale1/status/1643876676781195264 https://twitter.com/ahmed_olawale1/status/1643876676781195264 https://twitter.com/julienbarbier42/status/1651673488674136064 https://twitter.com/julienbarbier42/status/1651673488674136064 https://twitter.com/julienbarbier42/status/1643619275582627843 https://twitter.com/julienbarbier42/status/1643619275582627843 https://twitter.com/jaylaporsh/status/1642866184658845698 https://twitter.com/jaylaporsh/status/1642866184658845698 https://twitter.com/julienbarbier42/status/1588895367093170176 https://twitter.com/julienbarbier42/status/1588895367093170176 https://twitter.com/julienbarbier42/status/1255202370348175361 https://twitter.com/julienbarbier42/status/1255202370348175361 https://twitter.com/julienbarbier42/status/1641424897032470534 https://twitter.com/julienbarbier42/status/1641424897032470534 https://twitter.com/Mssophia_/status/1640386915068256263 https://twitter.com/Mssophia_/status/1640386915068256263 https://twitter.com/julienbarbier42/status/1640404279432450048 https://twitter.com/julienbarbier42/status/1640404279432450048 https://twitter.com/julienbarbier42/status/1640192178747224067 https://twitter.com/julienbarbier42/status/1640192178747224067 https://twitter.com/ehoneahobed/status/1640054700874637313 https://twitter.com/ehoneahobed/status/1640054700874637313 https://twitter.com/Sir_sanctified/status/1638928959315275776 https://twitter.com/Sir_sanctified/status/1638928959315275776 https://twitter.com/julienbarbier42/status/1638924871769145344 https://twitter.com/julienbarbier42/status/1638924871769145344 https://twitter.com/GhandoriEl/status/1638830095543554048 https://twitter.com/GhandoriEl/status/1638830095543554048",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 836,
+        "contentTokens": 257,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Tech Prep",
+        "content": "Basic guide to set your expectations right and get you ready for the ALX Software Engineering program. 📄️ Introduction Hello and welcome to ALX Africa SE Preparatory guide! We're thrilled to have you join us as a learner in our Software Engineering program. Our mission is to help you achieve your goals in software engineering and become a highly skilled professional in the field. 🗃️ Apps & Tools 1 items 🗃️ Concepts 4 items",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 429,
+        "contentTokens": 92,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Introduction",
+        "content": "Hello and welcome to ALX Africa SE Preparatory guide! We're thrilled to have you join us as a learner in our Software Engineering program. Our mission is to help you achieve your goals in software engineering and become a highly skilled professional in the field. We believe in a hands-on approach to learning, with a focus on practical experience and real-world projects. Our program is designed to equip you with the knowledge and skills you need to succeed in the software engineering industry and make a meaningful impact in your career. We're excited to support you throughout your learning journey with us and can't wait to see all that you will achieve. Let's get started! 🤔 Curious about learning software engineering with ALX Africa?​ At ALX Africa, we take pride in our learners' experiences. Here is a blog post written by one of our own learners, who wanted to share their firsthand experience with others. Do check it out.",
+        "links": "https://medium.com/@ehoneahobed/the-alx-software-engineering-program-insider-tips-and-tricks-96577a8cc11",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 936,
+        "contentTokens": 190,
+        "embedding": []
+      },
+      {
+        "title": "Introduction",
+        "content": "The ALX Software Engineering Program: Insider Tips and Tricks We're thrilled to welcome you to our community and support you as you work towards your software engineering goals. With a focus on practical experience and real-world projects, our program is designed to equip you with the knowledge and skills you need to succeed in the industry. We can't wait to see all that you will accomplish in the program and beyond! 🚀 What to expect when the program begins​ Your first two weeks in the program will be your onboarding where you will be taken through a series of sessions to introduce you to every aspect of the program. On daily basis, you will be given projects which comprise of: Your first project will be available on the very day that you are starting the program. You will receive your daily projects at exactly 6:00 AM everyday. Each project has its own deadline and it will be provided when the project is made available to you. You have access to all your projects on our online classroom platform popularly known as \"the intranet\" This means that you will be granted access to the intranet and you are expected to log into it on daily basis to access your projects. Also, we send you daily email reminders of projects for the day. There is a possibility of the emails landing in your spam or junk folders so do check them if you aren't receiving such emails.",
+        "links": "https://medium.com/@ehoneahobed/the-alx-software-engineering-program-insider-tips-and-tricks-96577a8cc11",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 942,
+        "contentTokens": 280,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Apps & Tools",
+        "content": "During the ALX SE program, you will be introduced to a variety of apps and tools that you will be working with. Some of these will only be required occasionally, while others will be used on a regular basis. Although you will learn about them as and when you need them, having prior experience with some of them can be very beneficial, particularly when you are just starting out. So, let's take a look at some of these tools. Using Google Docs for submitting tasks​ During your first few days in the program, you may be asked to use Google Docs to submit answers for some of your tasks. To ensure a smooth experience, it's a good idea to familiarize yourself with how Google Docs works. One important feature you should know about is how to retrieve a shareable link for any document you create. This allows you to share the document with others, even if they don't have a Google account.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 889,
+        "contentTokens": 188,
+        "embedding": []
+      },
+      {
+        "title": "Apps & Tools",
+        "content": "To get the link, simply click on the \"Share\" button in the top-right corner of your document and select \"Get link\" Additionally, you may have to make your document public so that anyone with the link can access it. To do this, click on the \"Share\" button and change the visibility settings to \"Anyone with the link can view\" This ensures that your work can be easily accessed by your mentors and fellow learners. Slack for communication​ Slack is the primary platform for connecting with other program participants, including peers and mentors. It's important to familiarize yourself with some of Slack's key features, such as channels, threads, and direct messaging. Knowing how to use these features will help facilitate communication and collaboration with others. Video Conferencing Tools​ As the program is primarily conducted remotely, video conferencing tools are essential for meetings with peers and mentors. At ALX Africa, we use Zoom for official meetings such as expert sessions and live coding or learning sessions.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 1028,
+        "contentTokens": 200,
+        "embedding": []
+      },
+      {
+        "title": "Apps & Tools",
+        "content": "For private meetings, you can choose any video conferencing tool that suits your preferences. Zoom and Google Meet are popular choices among our participants. Moreover, we have dedicated days on your calendar for peer learning discussions. To facilitate this, we provide an internal video conferencing tool embedded in the intranet. Once you start the program, you will have access to this tool. Sandbox for coding​ In order to complete and submit your projects, it's recommended that you use a Unix-based operating system. To help you get started, we provide access to a sandbox environment with all the necessary installations. This will enable you to work on your projects even if you don't have your own environment set up. While using the sandbox is highly recommended, it's not mandatory. If you have an alternative environment, you are free to use that instead. Check out the Concepts section of this guide to find out more about using a Unix-based operating system.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 973,
+        "contentTokens": 193,
+        "embedding": []
+      },
+      {
+        "title": "Apps & Tools",
+        "content": "Gmail and Calendar: Staying Connected and Organized​ Gmail and Calendar are two essential tools for staying connected with peers and mentors, and keeping track of your schedule. Here's what you need to know about each of these tools: Gmail​ At ALX SE, email is the primary means of direct communication. We will send you emails for various events, updates, and reminders. To ensure that you receive important emails from us, make sure to check your inbox, spam folder, and any other email folders regularly. You should also familiarize yourself with your email client's features, such as how to compose and reply to emails, attach files, and use labels or folders to organize your emails. Almost every morning, we will send you an email reminder of the projects available. If you have any questions or concerns, feel free to reach out to your mentors or peers via email.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 870,
+        "contentTokens": 178,
+        "embedding": []
+      },
+      {
+        "title": "Apps & Tools",
+        "content": "Calendar​ To help you stay organized, ALX SE may send you calendar invites for official program events or meetings. You should add these to your Google Calendar, so make sure you have access to one. When you receive a calendar invite, make sure to RSVP to let us know whether or not you will be attending. This will help us plan and prepare for the event. You can also use your calendar to schedule your own tasks, reminders, or meetings with peers or mentors. By keeping track of your schedule and deadlines, you can stay on top of your work and make the most of your time in the program.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 589,
+        "contentTokens": 126,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Apps & Tools Quiz",
+        "content": "Before taking this quiz, make sure you have gone through the Apps & Tools module and have checked out the recommended resources.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 128,
+        "contentTokens": 24,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Concepts",
+        "content": "Concepts that you should familiarize yourself with before the program starts​ At ALX Africa, we understand that the Software Engineering program can be intense and fast-paced. That's why we highly recommend familiarizing yourself with some of the essential concepts before the program officially starts. To help you prepare, we've created this guide. During the first few weeks of the program, we focus on helping you develop the right mindset to succeed and learn fundamental concepts such as version control and the use of command line tools. To get the most out of the program, we suggest familiarizing yourself with the following four concepts before starting: NB: Just familiarize yourself with these concepts (especially if they are totally new to you) By having a basic understanding of these concepts, you'll be better equipped to hit the ground running and get the most out of the program.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 898,
+        "contentTokens": 172,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Shell",
+        "content": "One of the very first concepts that you will need to familiarize yourself with as you begin this journey is the Shell. Shell Navigation and basic Linux commands​ As you begin your journey to becoming a software engineer, there are a lot of new things that you are going to learn. Some of these will be totally new to you, while others may be slightly different from what you are used to already. One such concept is what we refer to as the command line (to be introduced soon) Prior to this time, when you use your computer, you are able to drag and drop things with your mouse. You have mouse buttons that you click or double click to get options which you use to move around or get some work done. This use of computers wasn’t always so. There was a time when computers didn’t have mouses and everything needed to be done with the keyboard. You literally had to give the computer commands by typing them out if you wanted to do something.",
+        "links": "https://datacarpentry.org/shell-economics/01-introduction/index.html https://www.hostinger.com/tutorials/linux-commands#:~:text=Linux%20commands%20are%20executed%20on,user%20management%20and%20file%20manipulation.&text=A%20command%20may%20contain%20an,can%20still%20run%20without%20them https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/ https://twitter.com/@GhandoriEl https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html https://twitter.com/@GhandoriEl",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 940,
+        "contentTokens": 199,
+        "embedding": []
+      },
+      {
+        "title": "Shell",
+        "content": "The current interface, where you are able to use your mouse to drag and drop and also get graphical representation of all the things on your computer is known as the Graphical User Interface (GUI) What preceded it, which didn’t have any graphical representations and everything needed to be done by explicitly typing out commands from your keyboard, is known as the Command Line Interface (CLI) You may think that once we now have access to the GUI, there will be no need for the CLI but that isn’t the case at all. There are a couple of advantages that the CLI still overs which makes it preferably for professionals like Software Engineers. As such, throughout your training to become a software engineer, you are going to be working a lot with the CLI. To get you started with CLI, we will be introducing you to the Shell. The Shell is basically what is responsible for interpreting all the commands that you type and ensuring that you get the right response.",
+        "links": "https://datacarpentry.org/shell-economics/01-introduction/index.html https://www.hostinger.com/tutorials/linux-commands#:~:text=Linux%20commands%20are%20executed%20on,user%20management%20and%20file%20manipulation.&text=A%20command%20may%20contain%20an,can%20still%20run%20without%20them https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/ https://twitter.com/@GhandoriEl https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html https://twitter.com/@GhandoriEl",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 962,
+        "contentTokens": 195,
+        "embedding": []
+      },
+      {
+        "title": "Shell",
+        "content": "It does this by taking commands from the keyboard and sending it to the operating system for execution. For your computer to take in the commands you type from your keyboard there has to be an interface where you type your commands. This interface is generally referred to as a terminal. So, when you are using the CLI, you have to open a terminal to type your commands and the shell will interpret and execute those commands for you. Since you will be working with this throughout the program, it is only important to familiarize yourself with it as soon as possible. Just as you are able to move around, open a folder, close a folder, copy and paste, move files, and many more with your mouse on a GUI computer, you should be able to similarly navigate around using the CLI. This is what we will be calling Shell Navigation.",
+        "links": "https://datacarpentry.org/shell-economics/01-introduction/index.html https://www.hostinger.com/tutorials/linux-commands#:~:text=Linux%20commands%20are%20executed%20on,user%20management%20and%20file%20manipulation.&text=A%20command%20may%20contain%20an,can%20still%20run%20without%20them https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/ https://twitter.com/@GhandoriEl https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html https://twitter.com/@GhandoriEl",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 826,
+        "contentTokens": 168,
+        "embedding": []
+      },
+      {
+        "title": "Shell",
+        "content": "You should therefore learn about the various commands that you can use when you intend to take actions like the following: Before we introduce you to some resources you can use to learn these, let us address some of the frequently asked questions that new learners have concerning what we have talked about so far. The answers to the above questions are similar, so let’s answer them together. You don’t necessarily need to install a Linux operating system before starting the SWE program. Once you start the program, you will be given access to a sandbox where you can do all your projects in and even do your own practice with.",
+        "links": "https://datacarpentry.org/shell-economics/01-introduction/index.html https://www.hostinger.com/tutorials/linux-commands#:~:text=Linux%20commands%20are%20executed%20on,user%20management%20and%20file%20manipulation.&text=A%20command%20may%20contain%20an,can%20still%20run%20without%20them https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/ https://twitter.com/@GhandoriEl https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html https://twitter.com/@GhandoriEl",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 629,
+        "contentTokens": 126,
+        "embedding": []
+      },
+      {
+        "title": "Shell",
+        "content": "If you feel adventurous enough, you can figure out how to install a linux operating system on your computer (possible choices include: using a virtual machine, windows subsystem for linux, dual boot operating systems) Resources​ Peer Discussion Led by Adewole Adegboyega-Conde for some ALX learners Introduction to shell Basic Linux Commands 37 Important Linux Commands You Should Know - recommended by Ruya - @GhandoriEl Bash Guide for Beginners - recommended by Ruya - @GhandoriEl.",
+        "links": "https://datacarpentry.org/shell-economics/01-introduction/index.html https://www.hostinger.com/tutorials/linux-commands#:~:text=Linux%20commands%20are%20executed%20on,user%20management%20and%20file%20manipulation.&text=A%20command%20may%20contain%20an,can%20still%20run%20without%20them https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/ https://twitter.com/@GhandoriEl https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html https://twitter.com/@GhandoriEl",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 483,
+        "contentTokens": 103,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Shell Quiz",
+        "content": "Before taking this quiz, make sure you have gone through the Shell module and have checked out the recommended resources or any other suitable resources.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 153,
+        "contentTokens": 27,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Text Editors",
+        "content": "There are a lot of text editors but as a beginner at ALX, you are expected to familiarize yourself with the terminal based text editors. Some of the text editors we recommend include: Getting started​ Vim​ To get started with using Vim, here are a few things that you need to explore Emacs​ To get started with using Emacs, you should consider the following: This is a beginner friendly video that you can check out. Other Resources​ Vi Written tutorials​ Emacs​",
+        "links": "https://www.openvim.com/ https://www.javatpoint.com/vi-editor#:~:text=The%20vi%20editor%20tool%20is,vi%20editor%20is%20case%2Dsensitive. https://www.guru99.com/the-vi-editor.html https://emacsdocs.org/docs/emacs/The-Emacs-Editor",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 462,
+        "contentTokens": 96,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Text Editors Quiz",
+        "content": "Before taking this quiz, make sure you have gone through the Text Editors module and have checked out the recommended resources or any other suitable resources.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 160,
+        "contentTokens": 28,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Version Control",
+        "content": "When developing software, it is very important for you to be tracking the changes you make to your code. This is because there may be a time when you would have to revert to a previous working version of your code. The process of keeping track of your code in such a way that you can always go back or forward to a different version of your code is known as version control. There are a lot of technologies and platforms out there that can be used for version control but you are expected to familiarize yourself with Git and GitHub. Getting started with version control​ To get started with version control, here are some of the things that you need to explore. Assignment:​ Just so you get yourself acquinted with Git and GitHub before starting the program, go ahead and create a GitHub account and try your hands on creating a repository and testing out the various git commands that you learn. Resources​ 1.",
+        "links": "https://blog.ehoneahobed.com/git-git-commands-github-explained-for-dummies https://docs.github.com/en/get-started/using-git/about-git http://www.github.com",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 911,
+        "contentTokens": 182,
+        "embedding": []
+      },
+      {
+        "title": "Version Control",
+        "content": "Git & GitHub explained for dummies​ Here is a beginner friendly introduction to Version control with Git and GitHub written by one of our learners: Git & GitHub explained for dummies 2. Git & Github Explained - ALX Peer Discussion​ 3. Getting started with Git and Github​ About Git and how to use it How to create a GitHub account​ Go to the GitHub homepage: The first thing you need to do is go to the GitHub homepage by typing www. github. com into your web browser. Click on the \"Sign up\" button: Once you're on the GitHub homepage, you'll see a \"Sign up\" button in the top-right corner of the screen. Click on it. Enter your details: You'll be taken to a page where you'll need to enter your personal details such as your username, email address, and a strong password. Make sure your username is something that you'll remember, as this is how people will identify you on GitHub.",
+        "links": "https://blog.ehoneahobed.com/git-git-commands-github-explained-for-dummies https://docs.github.com/en/get-started/using-git/about-git http://www.github.com",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 883,
+        "contentTokens": 198,
+        "embedding": []
+      },
+      {
+        "title": "Version Control",
+        "content": "Verify your email address: After you've entered your details, GitHub will send you an email to verify your email address. Click on the link in the email to verify your account. Choose your plan: Once you've verified your email address, you'll be taken to a page where you can choose your plan. GitHub offers both free and paid plans. For beginners, the free plan should be sufficient. Complete your profile: After you've chosen your plan, you'll be taken to your GitHub dashboard. Here, you can complete your profile by adding a profile picture, a bio, and any other information that you want to share. Congratulations! You've successfully created a GitHub account. You can now start exploring GitHub and all its features.",
+        "links": "https://blog.ehoneahobed.com/git-git-commands-github-explained-for-dummies https://docs.github.com/en/get-started/using-git/about-git http://www.github.com",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 722,
+        "contentTokens": 148,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "Version Control Quiz",
+        "content": "Before taking this quiz, make sure you have gone through the Version control module and have checked out the recommended resources or any other suitable resources.",
+        "links": "",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 163,
+        "contentTokens": 28,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  },
+  {
+    "pages": [],
+    "chunks": [
+      {
+        "title": "C Programming",
+        "content": "The very first programming language that you will be learning is C language. C is a low level language which will introduce you to almost all the concepts that you will be using even in other programming languages. It is therefore essential for you to familiarize yourself with C language. Getting started​ To get started with C Programming, you should familiarize yourself with: You can make use of this online compiler for practicing what you learn. You can also check out this tutorials Other Resources​ 1. Peer discussion led by Ehoneah Obed for ALX learners​ 2. Jenny's Lecture YouTube playlist​ 3. Harvard CS50 YouTube playlist​",
+        "links": "https://www.programiz.com/c-programming/online-compiler/ https://www.programiz.com/c-programming",
+        "teamMembers": [],
+        "topics": [],
+        "contentLength": 634,
+        "contentTokens": 128,
+        "embedding": []
+      }
+    ],
+    "tokens": 0
+  }
+]

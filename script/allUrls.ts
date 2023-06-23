@@ -1,0 +1,32 @@
+export const mainUrl = 'https://prealxse.com';
+
+export const pageUrls: string[] = [
+    '/intro/',
+    '/category/what-is-alx-se/',
+    '/introduction/',
+    '/introduction/topics/',
+    '/introduction/framework/',
+    '/introduction/pbl/',
+    '/introduction/pld/',
+    '/introduction/must_know/',
+    '/introduction/evaluation/',
+    '/introduction/faqs/',
+    '/category/community/',
+    '/Community/',
+    '/category/mindset-prep/',
+    '/mindset/videos/',
+    '/mindset/articles/',
+    '/mindset/tweets/',
+    '/category/tech-prep',
+    '/guide/',
+    '/guide/Apps/',
+    '/guide/Apps/quiz/',
+    '/guide/concepts/',
+    '/guide/concepts/shell/',
+    '/guide/concepts/shell/quiz/',
+    '/guide/concepts/text-editors/',
+    '/guide/concepts/text-editors/quiz/',
+    '/guide/concepts/version-control/',
+    '/guide/concepts/version-control/quiz',
+    '/guide/concepts/c-programming/'
+  ];
